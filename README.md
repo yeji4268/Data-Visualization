@@ -1,6 +1,6 @@
 # Data-Visualization
 ---
-캐글 데이터를 시각화 합니다. 
+캐글 데이터 시각화 
 ---
 1. Video Game Sales
    출처: [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
